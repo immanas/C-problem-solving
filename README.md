@@ -16,7 +16,7 @@ Each problem includes:
 
 ---
 
-## 🧩 Topics Covered 
+## 🧩 Topics Covered  
 
 | Category | Description |
 |-----------|-------------|
