@@ -1,34 +1,51 @@
-# 🧠💻 C Problem Solving Repository
+# 🧠💻 C Problem Solving & Fundamentals
 
-Welcome to **C Problem Solving** — a curated collection of **C programming challenges, algorithmic problems, and practical code examples** designed to sharpen your problem-solving and programming fundamentals.
+A **well-structured C programming repository** focused on **logic building, problem solving, and core fundamentals**, covering topics from **basics to recursion, arrays, loops, and pattern printing**.
 
----
+This repository reflects **consistent practice**, **clean organization**, and **step-by-step learning**, making it suitable for:
 
-## 🚀 Overview
-
-This repository contains well-structured and beginner-friendly **C language problem solutions** — covering topics like arrays, loops, pointers, recursion, data structures, and algorithms.
-
-Each problem includes:
-- ✅ Clear problem statement  
-- 💡 Approach or logic explanation  
-- 🧩 Clean, commented C code  
-- 🧪 Sample inputs and outputs  
+- C beginners  
+- Engineering students  
+- Interview preparation  
+- Fundamental revision  
 
 ---
 
-## 🧩 Topics Covered  
+## 📌 Repository Highlights
 
-| Category | Description |
-|-----------|-------------|
-| 🔢 **Arrays** | Basic operations, searching, sorting |
-| 🔁 **Loops & Patterns** | Logic building & output patterns |
-| 🧮 **Functions** | Reusable modular programming |
-| 🧠 **Recursion** | Classic recursive challenges |
-| 🧰 **Pointers** | Deep dive into memory handling |
-| 🗂️ **Structures & Strings** | Data grouping & manipulation |
-| ⚙️ **Data Structures (Intro)** | Linked lists, stacks, and queues (optional) |
+- 📂 Concept-wise folder structure  
+- 🧩 Beginner to intermediate level problems  
+- 🧠 Focus on **logic**, not shortcuts  
+- 📝 Simple, readable C code  
+- 🔁 Covers commonly asked interview problems  
 
 ---
 
+## 📂 Folder Structure (Current Repo)
 
+
+> 📌 Each folder represents **one core C concept**, keeping learning structured and clean.
+
+---
+
+## 🧩 Topics Covered
+
+| Category | What You Learn |
+|--------|---------------|
+| 🧱 **Basics** | Input/output, operators, syntax |
+| 🔀 **IF-ELSE** | Conditional logic & decision making |
+| 🔁 **Loops** | Iteration, counting, series, patterns |
+| 🔢 **Arrays** | 1D & 2D array handling |
+| 🧮 **Functions** | Modular programming |
+| 🧠 **Recursion** | Stack-based problem solving |
+| 🎨 **Pattern Printing** | Logic & nested loops |
+| 🧰 **Pointers** | Memory addressing fundamentals |
+
+---
+
+## 🛠️ How to Compile & Run
+
+### Compile a C file
+```bash
+gcc filename.c -o output
 
