@@ -21,7 +21,7 @@ This repository reflects **consistent practice**, **clean organization**, and **
 
 ---
 
-## 📂 Folder Structure (Current Repo)
+
 
 
 > 📌 Each folder represents **one core C concept**, keeping learning structured and clean.
