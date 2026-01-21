@@ -10,5 +10,5 @@ void printNumbers(int n) {
 int main() {
     int n = 5;
     printNumbers(n);
-    return 0;
+    return 0; // adding this command for my understanding
 }
